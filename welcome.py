@@ -41,4 +41,4 @@ async def on_member_join(member):
 
 
 
-bot.run("MTE0MTU1Nzg4ODM3Mjk2NTQwNw.GUI8yJ.5TnupULQ3AF1_A0ZTLrzpWaGuOyHnaZBOPi20g")
+bot.run("TOKEN")
